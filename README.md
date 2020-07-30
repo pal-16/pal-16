@@ -1,6 +1,6 @@
 
 Linkedin : https://www.linkedin.com/in/palak-mantry/</br>
-email    : mantrypalak@gmail.com</br>
+Email id : mantrypalak@gmail.com</br>
 
 [![Palak's github stats](https://github-readme-stats.vercel.app/api?username=pal-16)](https://github.com/pal-16/github-readme-stats)
 
