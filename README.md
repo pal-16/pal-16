@@ -1,5 +1,5 @@
 
-Linkedin : https://www.linkedin.com/in/palak-mantry/</br>
+LinkedIn : https://www.linkedin.com/in/palak-mantry/</br>
 Email Id : mantrypalak@gmail.com</br>
 
 
