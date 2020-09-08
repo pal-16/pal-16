@@ -10,5 +10,5 @@
 
 <br>
 <a href="https://linkedin.com/in/palak-mantry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="palak-mantry" height="30" width="30" /></a>
-  <a href="mantrypalak@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="palak-mantry" height="30" width="30" /></a>
+  <mailto:"mantrypalak@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="palak-mantry" height="30" width="30" /></a>
 </h2>
