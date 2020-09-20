@@ -9,7 +9,9 @@
 </p><h2>Contact
 
 <br>
-<a href="https://linkedin.com/in/palak-mantry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="palak-mantry" height="30" width="30" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/palak-mantry/">
+  <img align="left" alt="LinkdeIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a target="_blank" href="mailto:mantrypalak@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
