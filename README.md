@@ -10,5 +10,10 @@
 
 <br>
 <a href="https://linkedin.com/in/palak-mantry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="palak-mantry" height="30" width="30" /></a>
-  <mailto:"mantrypalak@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="palak-mantry" height="30" width="30" /></a>
+<a target="_blank" href="mailto:mantrypalak@gmail.com">
+  <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://twitter.com/palak-mantry">
+  <img align="left" alt="twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 </h2>
