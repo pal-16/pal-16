@@ -15,7 +15,7 @@
 <a target="_blank" href="mailto:mantrypalak@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://twitter.com/palak-mantry">
+<a target="_blank" href="https://twitter.com/MantryPalak">
   <img align="left" alt="twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </h2>
