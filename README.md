@@ -11,7 +11,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 - 🌱 I’m currently learning **Data Science, Cloud Computing**
 - 👯 I’m looking to collaborate on helping local communities with a tech based solution for their daily challenges
 - 🤝 I’m looking for help with [Voice Prescription App](https://github.com/pal-16/Voice_Prescription)
-- 👨‍💻 All of my projects are available at [https://github.com/PragatiVerma18](https://github.com/pal-16)
+- 👨‍💻 All of my projects are available at [https://github.com/pal-16](https://github.com/pal-16)
 - 📫 How to reach me **mantry@gmail.com**
 
 
