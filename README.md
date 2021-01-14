@@ -1,7 +1,5 @@
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-</div>
+
 <h1 align="center">Hi! I'm Palak Mantry</h1>
 <p align="center">Worked with domains in Web Development, App Development, Cloud Computing, Data Science. Eager to contribute and collaborate through hard work, attention to detail, management and organizational skills.</p>
 
@@ -19,7 +17,7 @@
 </p>
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://twitter.com/MantryPalak" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
