@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi! I'm Palak Mantry</h1>
-<p align="center">Worked with domains in Web Development, App Development, Cloud Computing, Data Science. Eager to contribute and collaborate through hard work, attention to detail, management and organizational skills.</p>
 
 
 - 🔭 I’m currently exploring  **Open Source**
