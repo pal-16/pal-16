@@ -9,7 +9,7 @@
 - 📫 How to reach me **mantrypalak@gmail.com**
 
 
-## Techical Skills
+## Technical Skills
 
 - Web Development
 - App Development (Flutter)
