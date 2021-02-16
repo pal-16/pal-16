@@ -13,7 +13,7 @@
 ## Techical Skills
 
 - Web Development
-- App Development(Flutter)
+- App Development (Flutter)
 - Machine Learning 
 - Cloud Computing
 
