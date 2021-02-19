@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently exploring  **Open Source**
-- 🌱 I’m currently learning **Data Science, Cloud Computing**
 - 👯 I’m looking to collaborate on helping local communities with a tech based solution for their daily challenges
 - 📫 How to reach me **mantrypalak@gmail.com**
 
