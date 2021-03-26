@@ -8,13 +8,6 @@
 - 📫 How to reach me **mantrypalak@gmail.com**
 
 
-## Technical Skills
-
-- Web Development
-- App Development (Flutter)
-- Machine Learning 
-- Cloud Computing
-
 ## Connect with me  
 <div align="left">
 <a href="https://twitter.com/MantryPalak" target="_blank">
