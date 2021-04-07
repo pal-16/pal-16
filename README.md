@@ -28,8 +28,8 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pal-16&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=true" alt="pal-16" />   
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-16&theme=vue-dark" alt="pal-16" /></p>
+  <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-16&theme=vue-dark" alt="pal-16" /></p>
 </p>
 
