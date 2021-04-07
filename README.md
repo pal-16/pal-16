@@ -3,18 +3,13 @@
 <h1 align="center">Hi! I'm Palak Mantry</h1>
 
 
-## 
+## Worked with Domains
 
 - Web Development
 - App Development (Flutter)
 - Machine Learning 
 - Cloud Computing
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pal-16&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=true" alt="pal-16" />   
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-16&theme=vue-dark" alt="pal-16" /></p>
-</p>
 ## Connect with me  
 <p>
 <a href="https://twitter.com/MantryPalak" target="_blank">
@@ -31,3 +26,10 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pal-16&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=true" alt="pal-16" />   
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-16&theme=vue-dark" alt="pal-16" /></p>
+</p>
+
