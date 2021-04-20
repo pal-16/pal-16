@@ -29,6 +29,6 @@
 
 ![Palak GitHub Stats](https://github-readme-stats.vercel.app/api?username=pal-16&count_private=true&show_icons=true&include_all_commits=true)
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-16&theme=vue-white" alt="pal-16" /></p>
+/*<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-16&theme=vue-white" alt="pal-16" /></p>*/
 
 
