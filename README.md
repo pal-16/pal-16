@@ -7,7 +7,7 @@
 
 <h2> Hello there, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I am Palak Mantry<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-## Worked with Domains
+## Worked with Domains💻
 
 - Web Development
 - App Development (Flutter)
