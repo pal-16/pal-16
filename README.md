@@ -7,7 +7,7 @@
 
 <h2> Hello there, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I am Palak Mantry<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-## Worked with Domains💻
+## Worked with Domains:woman_technologist:
 
 - Web Development
 - App Development (Flutter)
@@ -16,7 +16,7 @@
 
 ![Palak GitHub Stats](https://github-readme-stats.vercel.app/api?username=pal-16&count_private=true&show_icons=true&include_all_commits=true)
 
-## Connect with me  
+## Connect with me💻
 <p>
 <a href="https://twitter.com/MantryPalak" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
