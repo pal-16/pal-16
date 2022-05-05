@@ -6,11 +6,11 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 
 ## Technical Skills
+- Languages: C, C++, Java, Python,  JavaScript, Dart, Typescript
 - Frontend : HTML, CSS, Bootstrap, React
-- Languages: C, C++, Java, Python,  JavaScript, Dart
 - Backend: Node.js, Express.js, Flask
 - Database: MongoDB, MySQL
-- Technologies: Flutter, Machine Learning, Blockchain
+- Technologies: Flutter, Machine Learning, Blockchain, Cloud Computing
 - Tools: Git, GitHub, Android Studio
 
 
