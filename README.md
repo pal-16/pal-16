@@ -1,4 +1,4 @@
-<h2  align="center"> Hello there, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I am Palak Mantry<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2  align="center"> Hello there, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I am Palak Mantry !</h2>
 
 <p align="center">Enthusiastic Developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
